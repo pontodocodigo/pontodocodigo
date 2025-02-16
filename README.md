@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao Tudo Dev!
+# 👋 Bem-vindo ao Ponto do Código!
 
 Este GitHub e o canal **Ponto do Código** foram criados para compartilhar tecnologia, conhecimento e projetos práticos com a comunidade. Aqui, você encontrará exemplos e tutoriais focados em desenvolvimento Full Stack usando as ferramentas mais modernas do ecossistema **JavaScript** e muito mais.
 
